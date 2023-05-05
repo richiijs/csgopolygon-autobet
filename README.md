@@ -1,6 +1,6 @@
 # ✨ CSGOPOLYGON AUTO BET SCRIPT ✨
 A simple script to bet the last color drawn on CSGOPolygon roulette
-<img width="758" alt="image" src="https://i.imgur.com/2wvzG6j.png">
+<img width="758" alt="image" src="https://i.imgur.com/x8G39Lb.png">
 
 # HOW TO USE
 1. Click right mouse button
