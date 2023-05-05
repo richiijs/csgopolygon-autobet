@@ -126,7 +126,7 @@ const panelHTML = `
         <h2 class="title">Auto bet: ${scriptStates[false]}</h2>
         <div class="auto-bet__start-bet">
             <label>
-                <p>Bet startowy</p> <br>
+                <p>Start bet</p> <br>
                 <input type="number">
             </label>
         </div>
